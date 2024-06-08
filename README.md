@@ -1,7 +1,7 @@
 # Edge_Disabled
 How to make some famous browser unable to take up your system usage. 
 
-Could not uninstall it now, even with command line but you can disable it at least, by following these:
+Could not uninstall Microsoft Edge for just now, even with old command line methods, but you can disable it at least, by following these:
 
 1)Stop all processes that is from edge.
 
@@ -15,7 +15,7 @@ I did not find any abnormal in the system just yet.
 
 ====
 
-无法卸载Edge，但是还算是可以禁用的，按照下面的操作就可以啦：
+无法卸载Edge，卡安装包bug的那招被封了,但是还算是可以禁用的，按照下面的操作就可以啦：
 
 1)给我停止运行所有Edge相关的程序。
 
