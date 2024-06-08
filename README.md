@@ -1,4 +1,4 @@
-# Edge_Disabled
+# Disable Edge
 How to make some famous browser unable to take up your system usage. 
 
 Could not uninstall Microsoft Edge for just now, even with old command line methods, but you can disable it at least, by following these:
